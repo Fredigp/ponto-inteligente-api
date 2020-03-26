@@ -1,4 +1,4 @@
-package com.fredi.pontointeligente.api.repository;
+package com.fredi.pontointeligente.api.repositories;
 
 import java.util.List;
 
